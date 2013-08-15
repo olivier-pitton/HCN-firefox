@@ -3,7 +3,6 @@ Extension Firefox pour Human Coders News
 L'extension Firefox officielle pour [Human Coders News](http://news.humancoders.com)
 
 ## Installation depuis 
-TODO : Ajouter aux apps firefox
 
 Code source : [github.com/olivier-pitton/HCN-firefox](https://github.com/olivier-pitton/HCN-firefox)
 
